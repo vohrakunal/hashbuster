@@ -1,0 +1,2 @@
+# hashbuster
+A Hash Decoder
