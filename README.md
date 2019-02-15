@@ -1,2 +1,2 @@
-# hashbuster
+# Hash Buster
 A Hash Decoder
